@@ -16,7 +16,7 @@ anak.append('limo')
 print(anak)
 
 print('\nsapa anak ke-2')
-print(f'hai {anak[a]}!')
+print(f'Hai {anak[1]}!')
 
 print('\nSapa semua anak')
 for a in anak:
